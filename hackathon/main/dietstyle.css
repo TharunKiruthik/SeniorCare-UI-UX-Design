@@ -1,0 +1,570 @@
+.diet-choices {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.diet-choices .overlap-wrapper {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 1080px;
+}
+
+.diet-choices .overlap {
+  position: relative;
+  height: 1080px;
+}
+
+.diet-choices .frame {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  top: 0;
+  left: 0;
+  background-color: #f5faff;
+}
+
+.diet-choices .overlap-group {
+  position: relative;
+  width: 1541px;
+  height: 1049px;
+  top: 19px;
+  left: 334px;
+  background-image: url(./img/group-427318805.png);
+  background-size: 100% 100%;
+}
+
+.diet-choices .text-wrapper {
+  position: absolute;
+  width: 478px;
+  height: 67px;
+
+  top: 60px;
+  left: 100px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #3377dd;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.diet-choices .div {
+  position: absolute;
+  width: 319px;
+  height: 59px;
+  top: 170px;
+  left: 102px;
+  background-color: #e9f4ff;
+  border-radius: 19px;
+  overflow: hidden;
+}
+
+.diet-choices .text-wrapper-2 {
+  position: absolute;
+  height: 42px;
+  top: 6px;
+  left: 52px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #1e1e1e;
+  font-size: 28px;
+  letter-spacing: -0.31px;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.diet-choices .layer {
+  position: absolute;
+  width: 17px;
+  height: 23px;
+  top: 0;
+  left: 15px;
+}
+
+.diet-choices .frame-2 {
+  position: absolute;
+  width: 319px;
+  height: 59px;
+  top: 173px;
+  left: 513px;
+  background-color: #e9f4ff;
+  border-radius: 19px;
+  overflow: hidden;
+}
+
+.diet-choices .frame-3 {
+  position: absolute;
+  width: 319px;
+  height: 59px;
+  top: 176px;
+  left: 925px;
+  background-color: #e9f4ff;
+  border-radius: 19px;
+  overflow: hidden;
+}
+
+.diet-choices .frame-4 {
+  position: absolute;
+  width: 319px;
+  height: 59px;
+  top: 276px;
+  left: 102px;
+  background-color: #e9f4ff;
+  border-radius: 19px;
+  overflow: hidden;
+}
+
+.diet-choices .frame-5 {
+  position: absolute;
+  width: 319px;
+  height: 59px;
+  top: 276px;
+  left: 513px;
+  background-color: #e9f4ff;
+  border-radius: 19px;
+  overflow: hidden;
+}
+
+.diet-choices .frame-6 {
+  position: absolute;
+  width: 319px;
+  height: 59px;
+  top: 276px;
+  left: 925px;
+  background-color: #e9f4ff;
+  border-radius: 19px;
+  overflow: hidden;
+}
+
+.diet-choices .frame-7 {
+  position: absolute;
+  width: 1417px;
+  height: 646px;
+  top: 385px;
+  left: 66px;
+  background-color: #ffffff;
+}
+
+.diet-choices .image {
+  width: 353px;
+  height: 383px;
+  top: 168px;
+  left: 66px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.diet-choices .high-protein-diet {
+  position: absolute;
+  height: 42px;
+  top: 88px;
+  left: 24px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #3983f0;
+  font-size: 28px;
+  letter-spacing: -0.31px;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.diet-choices .span {
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #3983f0;
+  font-size: 28px;
+  letter-spacing: -0.31px;
+  line-height: 42px;
+}
+
+.diet-choices .text-wrapper-3 {
+  position: absolute;
+  height: 47px;
+  top: 19px;
+  left: 24px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #3983f0;
+  font-size: 31px;
+  letter-spacing: -0.34px;
+  line-height: 46.5px;
+  white-space: nowrap;
+}
+
+.diet-choices .overlap-group-2 {
+  position: absolute;
+  width: 829px;
+  height: 317px;
+  top: 151px;
+  left: 515px;
+}
+
+.diet-choices .preparation-heat-oil {
+  position: absolute;
+  width: 826px;
+  height: 183px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 23px;
+  letter-spacing: -0.25px;
+  line-height: 34.5px;
+}
+
+.diet-choices .text-wrapper-4 {
+  color: #3377dd;
+}
+
+.diet-choices .text-wrapper-5 {
+  color: #000000;
+}
+
+.diet-choices .nutritional {
+  position: absolute;
+  width: 828px;
+  height: 160px;
+  top: 157px;
+  left: 1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 23px;
+  letter-spacing: -0.25px;
+  line-height: 34.5px;
+}
+
+.diet-choices .disease-avoided-from {
+  position: absolute;
+  width: 879px;
+  height: 83px;
+  top: 468px;
+  left: 515px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 23px;
+  letter-spacing: -0.25px;
+  line-height: 34.5px;
+}
+
+.diet-choices .sidebar-open {
+  position: absolute;
+  width: 311px;
+  height: 1080px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 13.33px;
+  border-right-width: 1.11px;
+  border-right-style: solid;
+  border-color: #0000001a;
+}
+
+.diet-choices .overlap-2 {
+  position: absolute;
+  width: 258px;
+  height: 64px;
+  top: 32px;
+  left: 27px;
+}
+
+.diet-choices .profil {
+  position: absolute;
+  width: 258px;
+  height: 49px;
+  top: 3px;
+  left: 0;
+}
+
+.diet-choices .content {
+  display: flex;
+  flex-direction: column;
+  width: 141px;
+  align-items: flex-start;
+  gap: 4.44px;
+  position: relative;
+  top: 13px;
+  left: 98px;
+}
+
+.diet-choices .title {
+  position: relative;
+  width: 141px;
+  margin-top: 4.11px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #2f54eb;
+  font-size: 23.5px;
+  letter-spacing: 0;
+  line-height: 22.2px;
+}
+
+.diet-choices .img {
+  width: 89px;
+  height: 64px;
+  top: 0;
+  left: 5px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.diet-choices .divider {
+  position: absolute;
+  width: 258px;
+  height: 2px;
+  top: 124px;
+  left: 27px;
+  background-color: #030723;
+  border-radius: 2.22px;
+}
+
+.diet-choices .overlap-3 {
+  position: absolute;
+  width: 258px;
+  height: 780px;
+  top: 166px;
+  left: 26px;
+}
+
+.diet-choices .navigation {
+  position: absolute;
+  width: 258px;
+  height: 780px;
+  top: 0;
+  left: 1px;
+}
+
+.diet-choices .link {
+  display: flex;
+  width: 258px;
+  align-items: center;
+  gap: 13.33px;
+  padding: 11.1px 13.33px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 8.88px;
+}
+
+.diet-choices .img-2 {
+  position: relative;
+  width: 22.21px;
+  height: 22.21px;
+}
+
+.diet-choices .label {
+  position: relative;
+  flex: 1;
+  margin-top: -1.11px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: var(--black);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.diet-choices .link-2 {
+  display: flex;
+  width: 258px;
+  align-items: center;
+  gap: 13.33px;
+  padding: 11.1px 13.33px;
+  position: absolute;
+  top: 71px;
+  left: 0;
+  border-radius: 8.88px;
+}
+
+.diet-choices .label-2 {
+  position: relative;
+  width: 182px;
+  margin-top: -1.11px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #030723;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.diet-choices .link-3 {
+  display: flex;
+  width: 258px;
+  align-items: center;
+  gap: 13.33px;
+  padding: 11.1px 13.33px;
+  position: absolute;
+  top: 142px;
+  left: -1px;
+  background-color: #f0f5ff;
+  border-radius: 8.88px;
+}
+
+.diet-choices .dropdown {
+  display: flex;
+  width: 258px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 13.33px;
+  position: absolute;
+  top: 214px;
+  left: -1px;
+}
+
+.diet-choices .link-4 {
+  display: flex;
+  align-items: center;
+  gap: 13.33px;
+  padding: 11.1px 13.33px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  background-color: #ffffff;
+  border-radius: 8.88px;
+}
+
+.diet-choices .link-5 {
+  display: flex;
+  width: 258px;
+  align-items: center;
+  gap: 13.33px;
+  padding: 11.1px 13.33px;
+  position: absolute;
+  top: 285px;
+  left: -1px;
+  border-radius: 8.88px;
+}
+
+.diet-choices .label-3 {
+  position: relative;
+  flex: 1;
+  margin-top: -1.11px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: var(--black);
+  font-size: 15.5px;
+  letter-spacing: -0.31px;
+  line-height: 22.2px;
+}
+
+.diet-choices .group {
+  position: absolute;
+  width: 176px;
+  height: 168px;
+  top: 439px;
+  left: 33px;
+}
+
+.diet-choices .overlap-group-3 {
+  position: relative;
+  width: 137px;
+  height: 118px;
+  top: 8px;
+  left: 18px;
+  background-image: url(./img/polygon-5.svg);
+  background-size: 100% 100%;
+}
+
+.diet-choices .text-wrapper-6 {
+  position: absolute;
+  width: 17px;
+  top: 14px;
+  left: 57px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 57px;
+  letter-spacing: 0;
+  line-height: 79.8px;
+  white-space: nowrap;
+}
+
+.diet-choices .text-wrapper-7 {
+  position: absolute;
+  width: 103px;
+  top: 86px;
+  left: 20px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 15.7px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.diet-choices .link-6 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 13px;
+  padding: 9px 13px;
+  position: absolute;
+  top: 356px;
+  left: 0;
+  border-radius: 8.88px;
+}
+
+.diet-choices .page {
+  position: relative;
+  width: 22px;
+  height: 22px;
+}
+
+.diet-choices .label-4 {
+  position: relative;
+  width: 195.52px;
+  margin-top: -1.11px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: var(--black);
+  font-size: 15.5px;
+  letter-spacing: -0.31px;
+  line-height: 22.2px;
+}
+
+.diet-choices .link-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 140px;
+  align-items: flex-start;
+  gap: 8.88px;
+  position: absolute;
+  top: 986px;
+  left: 27px;
+}
+
+.diet-choices .link-7 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 67.21px;
+  border-radius: 8.88px;
+}
+
+.diet-choices .icon-log-out {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 23px;
+  left: 13px;
+}
+
+.diet-choices .label-5 {
+  position: absolute;
+  width: 133px;
+  top: 22px;
+  left: 49px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #ff0a00;
+  font-size: 15.5px;
+  letter-spacing: -0.31px;
+  line-height: 22.2px;
+}

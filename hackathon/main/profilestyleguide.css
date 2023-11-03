@@ -1,0 +1,6 @@
+:root {
+  --black: rgba(3, 7, 35, 1);
+  --inactive-state-color: rgba(73, 69, 79, 0.8);
+  --dark-all-content: rgba(31, 31, 31, 0.8);
+  --input-box-stroke-thin: rgba(0, 0, 0, 0.15);
+}
